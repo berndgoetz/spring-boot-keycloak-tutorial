@@ -8,4 +8,8 @@
 </ul>
 <br>
 <a href="/logout">Logout</a>
+<br>
+
+<a href="/">Home</a>
+
 </html>
